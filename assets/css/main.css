@@ -1,10 +1,9 @@
- .body {
-   background-color:darkgrey;   
-   background-repeat:no-repeat;
-   background-image: url("assets/images/berg.jpg");
-   background-position: center;
-   background-size: container;
+ .divbody{
+   background-color: darkslategray;
  }
+ 
+
+
 
  .divlogin{
    margin-top: 10%;
@@ -12,4 +11,13 @@
    color: aliceblue;
  }
 
- 
+ .divfoto{
+   margin-top: -250px;
+  margin-left: 400px;
+ }
+
+ .divline{
+   border-bottom: 10px solid black;
+   width: 100%;
+ }
+
