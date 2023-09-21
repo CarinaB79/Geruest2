@@ -1,0 +1,22 @@
+ .body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    }
+    
+    .background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('assets/images/mordor.jpg');
+    background-size: cover;
+    z-index: -1;
+    }
+    
+    h1 {
+    text-align: center;
+    padding-top: 200px;
+    color: #fff;
+    }
